@@ -1,5 +1,5 @@
 {
-  "author": "Luminati Networks Ltd <lpm@luminati.io> (https://luminati.io/)",
+  "author": "Jeroen Visser <jeroen+luminati-proxy-npm@koode.nl>",
   "config": {
     "unsafe-perm": true
   },
@@ -120,7 +120,7 @@
     "md5": "693063b7c30729000ba9c10407499674"
   },
   "main": "index.js",
-  "name": "@luminati-io/luminati-proxy",
+  "name": "luminati-proxy-stripped",
   "contributors": [
     {
       "name": "Colin Shribman",
